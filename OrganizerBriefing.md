@@ -25,6 +25,11 @@ There are two reasons why the unconference format works well for Field Day:
 1. Since attendees decide the content, it is timely, relevant, and represents what they want to talk about.
 2. This rather loose structure carries a much smaller organizational burden than a full conference.
 
+## Who can attend Field Day?
+Field Day is for student leaders of technical communities in the Los Angeles area.
+
+A student leader is someone who's actively involved in improving their local technical community. They might be the president or chairperson of their school's tech club or be one of the organizers of the annual hackathon. They might run the student hardware group or be actively involved in introducing other students to programming.
+
 ## Schedule (still TBD)
 ![Schedule from Beta Field Day](https://user-images.githubusercontent.com/7718702/28942522-a3e5b352-7869-11e7-8206-d7746a45c133.png)
 The picture above shows our schedule for Beta Field Day. You're of course free to adjust this based on what works best in the region. Basic building blocks that should be included:
@@ -32,6 +37,8 @@ The picture above shows our schedule for Beta Field Day. You're of course free t
 - There should be an icebreaker session at the beginning
 - The majority of Field Day should be in the unconference format (breakout discussions & lightning talks)
 
+## Attending Field Day
+Expecting an attendance of 60-70 students. Options to filter the students is through an application process, or giving tickets to the leadership of each community and letting them distribute/choose.
 
 ## Venue - What is required?
 - One large space where everyone can sit (for welcome session, keynote, etc.)

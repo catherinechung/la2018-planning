@@ -25,6 +25,8 @@ There are two reasons why the unconference format works well for Field Day:
 1. Since attendees decide the content, it is timely, relevant, and represents what they want to talk about.
 2. This rather loose structure carries a much smaller organizational burden than a full conference.
 
+[Past Field Day in SF](http://githubfieldday.com/sf2017/)
+
 ## Who can attend Field Day?
 Field Day is for student leaders of technical communities in the Los Angeles area.
 

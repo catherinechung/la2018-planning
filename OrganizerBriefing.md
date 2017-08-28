@@ -1,5 +1,9 @@
 # Los Angeles Field Day
 
+## January 2018
+
+[Field Day Website](http://githubfieldday.com/la2018/)
+
 **Field Day is a one day unconference for leaders of technical student communities.** It brings together leaders from different regional communities to hang out, become friends, learn from each other's mistakes and successes, and solve shared problems.
 
 ## Motivation
@@ -42,6 +46,8 @@ The picture above shows our schedule for Beta Field Day. You're of course free t
 ## Attending Field Day
 Expecting an attendance of 60-70 students. Options to filter the students is through an application process, or giving tickets to the leadership of each community and letting them distribute/choose.
 
+Students will be given Lyft codes (~$20-25) for transportation.
+
 ## Venue - What is required?
 - One large space where everyone can sit (for welcome session, keynote, etc.)
   - This should have AV equipment (microphone, speakers, projector)
@@ -55,10 +61,11 @@ Expecting an attendance of 60-70 students. Options to filter the students is thr
 ## Time Commitment
 Being on the organizing team:
 - Meetings not necessary at the early planning stages, as long as there is weekly check ups. May need meetings when the event gets closer.
-- Shouldn't be a heavy workload, once a venue and date is booked.
+- Shouldn't be a heavy workload, once a venue and date are booked.
 
 ## Responsibilities
 - Booking a venue
+- Confirming a date
 - Pushing to social media
 - Confirming RSVP'd attendees 
 - Ordering food, swag, miscellaneous

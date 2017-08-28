@@ -1,4 +1,4 @@
-# la2017-planning
+# la2018-planning
 
 # When?
 Early January
